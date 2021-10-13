@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Luca with c
+- 👀 I’m interested in computer stuff & games
+- 🌱 I’m currently learning Ruby and Javascript
+- 💞️ I’m looking to collaborate on nothing special
+- 📫 Text me via insta: Luca_mit_ceh
