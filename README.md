@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luca with c
 - 👀 I’m interested in computer stuff & games
-- 🌱 I’m currently learning Ruby and Javascript
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on nothing special
-- 📫 Text me via insta: Luca_mit_ceh
+- 📫 Text me via insta: Luca_mit_ca
